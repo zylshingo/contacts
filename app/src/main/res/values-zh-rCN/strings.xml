@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">极客通讯录</string>
+    <string name="add">添加</string>
+    <string name="dialogTitle">请选择：</string>
+    <string name="fragTitle">添加联系人</string>
+    <string name="fragName">姓名：</string>
+    <string name="fragPhone">电话：</string>
+    <string name="btnOk">确定</string>
+    <string name="btnCancel">取消</string>
+    <string name="toast">请将信息填入完整！</string>
+</resources>
